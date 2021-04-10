@@ -1,0 +1,22 @@
+h1 
+{
+    background-color:#c7c7c7;
+    padding-left: 500px;
+}
+*{
+background-color: #98eaed;
+}
+
+
+.image1:hover img{
+    opacity: 0.33;
+}
+.image2:hover img{
+    opacity: 0.33;
+}
+.image3:hover img{
+    opacity: 0.33;
+}
+.image4:hover img{
+    opacity: 0.33;
+}
